@@ -7,9 +7,7 @@
 
 
 MynemisRick, 29'SHSID, welcome! 
-- 🔭 I’m currently working on NLP
-- 🌱 I’m currently learning Calculus, ML, RL, CV
-- 👯 I’m looking to collaborate on ML projects
+- 🔭 I’m currently working on NLP, CV, ML, LLM, Memory Framework
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=RickHUB42&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <img style="vertical-align: middle" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickHUB42&theme=transparent&hide_border=true"/>
