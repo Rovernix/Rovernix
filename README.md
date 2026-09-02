@@ -6,7 +6,7 @@
 
 
 
-MynemisRick, 29'SHSID, welcome! 
+Hiya, welcome! 
 - 🔭 I’m currently working on NLP, CV, ML, LLM, Memory Framework
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=RickHUB42&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
